@@ -5,6 +5,11 @@
       <PROP ID="Version">1</PROP>
     </OBJECT>
   </TABLE>
+  <TABLE ID="Rules">
+    <OBJECT>
+      <PROP ID="Rules">Connections@option("-A04")@visible = Operator in {"-S1"; };</PROP>
+    </OBJECT>
+  </TABLE>
   <TABLE ID="FP06P_ModelCode">
     <OBJECT>
       <PROP ID="ModelCode">FP06P</PROP>

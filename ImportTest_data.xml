@@ -29,8 +29,12 @@
       <PROP ID="Operator">-S1</PROP>
     </OBJECT>
     <OBJECT>
-      <PROP ID="Connections">-A04</PROP>
+      <PROP ID="Connections">-04</PROP>
       <PROP ID="Operator">-S2</PROP>
+    </OBJECT>
+    <OBJECT>
+      <PROP ID="Connections">-A04</PROP>
+      <PROP ID="Operator">-S1</PROP>
     </OBJECT>
   </TABLE>
   <TABLE ID="FP06P_ValveConfiguration">

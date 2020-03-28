@@ -18,4 +18,31 @@
       <PROP ID="Operator">-S2</PROP>
     </OBJECT>
   </TABLE>
+  <TABLE ID="FP06P_Connections">
+    <OBJECT>
+      <PROP ID="Connections">-04</PROP>
+    </OBJECT>
+    <OBJECT>
+      <PROP ID="Connections">-A04</PROP>
+    </OBJECT>
+  </TABLE>
+  <TABLE ID="FP06P_ValveConfiguration">
+    <OBJECT>
+      <PROP ID="ValveConfiguration">-22</PROP>
+    </OBJECT>
+    <OBJECT>
+      <PROP ID="ValveConfiguration">-32</PROP>
+    </OBJECT>
+  </TABLE>
+  <TABLE ID="FP06P_FlowConfiguration">
+    <OBJECT>
+      <PROP ID="FlowConfiguration">-NU</PROP>
+    </OBJECT>
+    <OBJECT>
+      <PROP ID="FlowConfiguration">-NC</PROP>
+    </OBJECT>
+    <OBJECT>
+      <PROP ID="FlowConfiguration">-NO</PROP>
+    </OBJECT>
+  </TABLE>
 </ROOT>

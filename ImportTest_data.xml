@@ -26,6 +26,7 @@
   <TABLE ID="FP06P_Connections">
     <OBJECT>
       <PROP ID="Connections">-04</PROP>
+      <PROP ID="Operator"></PROP>
     </OBJECT>
     <OBJECT>
       <PROP ID="Connections">-A04</PROP>

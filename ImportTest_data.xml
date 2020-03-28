@@ -14,8 +14,5 @@
     <OBJECT>
       <PROP ID="Operator">-S1</PROP>
     </OBJECT>
-    <OBJECT>
-      <PROP ID="Operator">-S2</PROP>
-    </OBJECT>
   </TABLE>
 </ROOT>

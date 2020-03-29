@@ -7,77 +7,77 @@
   </TABLE>
   <TABLE ID="FP06P_ModelCode">
     <OBJECT>
-      <PROP ID="ModelCode">FP06P</PROP>
+      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
     </OBJECT>
   </TABLE>
   <TABLE ID="FP06P_Operator">
     <OBJECT>
-      <PROP ID="Operator">-S1</PROP>
-      <PROP ID="ModelCode">FP06P</PROP>
+      <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
+      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
     </OBJECT>
     <OBJECT>
-      <PROP ID="Operator">-S2</PROP>
-      <PROP ID="ModelCode">FP06P</PROP>
+      <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
+      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
     </OBJECT>
   </TABLE>
   <TABLE ID="FP06P_Connections">
     <OBJECT>
-      <PROP ID="Connections">-04</PROP>
-      <PROP ID="ModelCode">FP06P</PROP>
-      <PROP ID="Operator">-S1</PROP>
-      <PROP ID="Operator">-S2</PROP>
+      <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
+      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
+      <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
+      <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
     </OBJECT>
     <OBJECT>
-      <PROP ID="Connections">-A04</PROP>
-      <PROP ID="ModelCode">FP06P</PROP>
-      <PROP ID="Operator">-S1</PROP>
+      <PROP ID="Connections">-A04 (1/4 Body Ported - Aluminium)</PROP>
+      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
+      <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
     </OBJECT>
   </TABLE>
   <TABLE ID="FP06P_ValveConfiguration">
     <OBJECT>
-      <PROP ID="ValveConfiguration">-32</PROP>
-      <PROP ID="ModelCode">FP06P</PROP>
-      <PROP ID="Operator">-S1</PROP>
-      <PROP ID="Operator">-S2</PROP>
-      <PROP ID="Connections">-04</PROP>
-      <PROP ID="Connections">-A04</PROP>
+      <PROP ID="ValveConfiguration">-32 (3-way  2-position)</PROP>
+      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
+      <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
+      <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
+      <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
+      <PROP ID="Connections">-A04 (1/4 Body Ported - Aluminium)</PROP>
     </OBJECT>
     <OBJECT>
-      <PROP ID="ValveConfiguration">-22</PROP>
-      <PROP ID="ModelCode">FP06P</PROP>
-      <PROP ID="Operator">-S1</PROP>
-      <PROP ID="Operator">-S2</PROP>
-      <PROP ID="Connections">-04</PROP>
-      <PROP ID="Connections">-A04</PROP>
+      <PROP ID="ValveConfiguration">-22 (2-way  2-position)</PROP>
+      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
+      <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
+      <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
+      <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
+      <PROP ID="Connections">-A04 (1/4 Body Ported - Aluminium)</PROP>
     </OBJECT>
   </TABLE>
   <TABLE ID="FP06P_FlowConfiguration">
     <OBJECT>
-      <PROP ID="FlowConfiguration">-NU</PROP>
-      <PROP ID="ModelCode">FP06P</PROP>
-      <PROP ID="Operator">-S1</PROP>
-      <PROP ID="Operator">-S2</PROP>
-      <PROP ID="Connections">-04</PROP>
-      <PROP ID="Connections">-A04</PROP>
-      <PROP ID="ValveConfiguration">-32</PROP>
+      <PROP ID="FlowConfiguration">-NU (Normally Universal)</PROP>
+      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
+      <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
+      <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
+      <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
+      <PROP ID="Connections">-A04 (1/4 Body Ported - Aluminium)</PROP>
+      <PROP ID="ValveConfiguration">-32 (3-way  2-position)</PROP>
     </OBJECT>
     <OBJECT>
-      <PROP ID="FlowConfiguration">-NC</PROP>
-      <PROP ID="ModelCode">FP06P</PROP>
-      <PROP ID="Operator">-S1</PROP>
-      <PROP ID="Operator">-S2</PROP>
-      <PROP ID="Connections">-04</PROP>
-      <PROP ID="Connections">-A04</PROP>
-      <PROP ID="ValveConfiguration">-22</PROP>
+      <PROP ID="FlowConfiguration">-NC (Normally Closed)</PROP>
+      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
+      <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
+      <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
+      <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
+      <PROP ID="Connections">-A04 (1/4 Body Ported - Aluminium)</PROP>
+      <PROP ID="ValveConfiguration">-22 (2-way  2-position)</PROP>
     </OBJECT>
     <OBJECT>
-      <PROP ID="FlowConfiguration">-NO</PROP>
-      <PROP ID="ModelCode">FP06P</PROP>
-      <PROP ID="Operator">-S1</PROP>
-      <PROP ID="Operator">-S2</PROP>
-      <PROP ID="Connections">-04</PROP>
-      <PROP ID="Connections">-A04</PROP>
-      <PROP ID="ValveConfiguration">-22</PROP>
+      <PROP ID="FlowConfiguration">-NO (Normally Open)</PROP>
+      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
+      <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
+      <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
+      <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
+      <PROP ID="Connections">-A04 (1/4 Body Ported - Aluminium)</PROP>
+      <PROP ID="ValveConfiguration">-22 (2-way  2-position)</PROP>
     </OBJECT>
   </TABLE>
 </ROOT>

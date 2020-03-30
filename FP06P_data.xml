@@ -539,7 +539,6 @@
     <OBJECT>
       <PROP ID="Options"> (Auto Reset)</PROP>
       <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
-      <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
       <PROP ID="Connections">-A04 (1/4 Body Ported - Aluminium)</PROP>

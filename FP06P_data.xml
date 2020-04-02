@@ -31,6 +31,7 @@
       <PROP ID="Connections">-A04 (1/4 Body Ported - Aluminium)</PROP>
       <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
+      <PROP ID="Operator"></PROP>
     </OBJECT>
   </TABLE>
   <TABLE ID="FP06P_ValveConfiguration">
@@ -60,6 +61,7 @@
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
       <PROP ID="Connections">-A04 (1/4 Body Ported - Aluminium)</PROP>
       <PROP ID="ValveConfiguration">-32 (3-way  2-position)</PROP>
+      <PROP ID="ValveConfiguration"></PROP>
     </OBJECT>
     <OBJECT>
       <PROP ID="FlowConfiguration">-NC (Normally Closed)</PROP>
@@ -68,6 +70,7 @@
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
       <PROP ID="Connections">-A04 (1/4 Body Ported - Aluminium)</PROP>
+      <PROP ID="ValveConfiguration"></PROP>
       <PROP ID="ValveConfiguration">-22 (2-way  2-position)</PROP>
     </OBJECT>
     <OBJECT>
@@ -77,6 +80,7 @@
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
       <PROP ID="Connections">-A04 (1/4 Body Ported - Aluminium)</PROP>
+      <PROP ID="ValveConfiguration"></PROP>
       <PROP ID="ValveConfiguration">-22 (2-way  2-position)</PROP>
     </OBJECT>
   </TABLE>
@@ -115,6 +119,7 @@
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
+      <PROP ID="Connections"></PROP>
       <PROP ID="ValveConfiguration">-32 (3-way  2-position)</PROP>
       <PROP ID="ValveConfiguration">-22 (2-way  2-position)</PROP>
       <PROP ID="FlowConfiguration">-NU (Normally Universal)</PROP>
@@ -223,12 +228,13 @@
       <PROP ID="OringMaterial">-S (Nitrile -20C to +130C)</PROP>
       <PROP ID="OringMaterial">-V (Viton -20C to +90C)</PROP>
       <PROP ID="SolenoidOperator">-77 (Ex d)</PROP>
+      <PROP ID="SolenoidOperator"></PROP>
     </OBJECT>
   </TABLE>
   <TABLE ID="FP06P_Voltage">
     <OBJECT>
       <PROP ID="Voltage">-12D (12VDC)</PROP>
-      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
+      <PROP ID="ModelCode"></PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -294,6 +300,7 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Voltage">-50D (50VDC)</PROP>
+      <PROP ID="ModelCode"></PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -315,6 +322,7 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Voltage">-110D (110VDC)</PROP>
+      <PROP ID="ModelCode"></PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -336,6 +344,7 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Voltage">-120D (120VDC)</PROP>
+      <PROP ID="ModelCode"></PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -357,6 +366,7 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Voltage">-125D (125VDC)</PROP>
+      <PROP ID="ModelCode"></PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -378,6 +388,7 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Voltage">-220D (220VDC)</PROP>
+      <PROP ID="ModelCode"></PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -399,6 +410,7 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Voltage">-24A (24VAC)</PROP>
+      <PROP ID="ModelCode"></PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -420,6 +432,7 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Voltage">-110A (110VAC)</PROP>
+      <PROP ID="ModelCode"></PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -441,6 +454,7 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Voltage">-120A (120VAC)</PROP>
+      <PROP ID="ModelCode"></PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -462,6 +476,7 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Voltage">-220A (220VAC)</PROP>
+      <PROP ID="ModelCode"></PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -483,6 +498,7 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Voltage">-230A (230VAC)</PROP>
+      <PROP ID="ModelCode"></PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -504,6 +520,7 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Voltage">-240A (240VAC)</PROP>
+      <PROP ID="ModelCode"></PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -635,6 +652,7 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Options">-MLT (Electrical and manual req'd to latch - tamperproof)</PROP>
+      <PROP ID="ModelCode"></PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -647,6 +665,7 @@
       <PROP ID="OringMaterial">-S (Nitrile -20C to +130C)</PROP>
       <PROP ID="OringMaterial">-V (Viton -20C to +90C)</PROP>
       <PROP ID="SolenoidOperator">-77 (Ex d)</PROP>
+      <PROP ID="SolenoidOperator"></PROP>
       <PROP ID="SolenoidApproval">A (ATEX/IECEx Dual Certified/Labelled)</PROP>
       <PROP ID="SolenoidApproval">G (CU-TR/IECEx Dual Certified/Labelled)</PROP>
       <PROP ID="SolenoidApproval">I (INMETRO/IECEx Dual Certified/Labelled)</PROP>
@@ -706,6 +725,8 @@
       <PROP ID="Voltage">-240A (240VAC)</PROP>
       <PROP ID="Options"> (Auto Reset)</PROP>
       <PROP ID="Options">-M (Electrical to switch or temporary manual override)</PROP>
+      <PROP ID="Options"></PROP>
+      <PROP ID="Options"></PROP>
     </OBJECT>
     <OBJECT>
       <PROP ID="Power">-57 (5.7 Watts)</PROP>
@@ -744,6 +765,7 @@
       <PROP ID="Voltage">-240A (240VAC)</PROP>
       <PROP ID="Options"> (Auto Reset)</PROP>
       <PROP ID="Options">-M (Electrical to switch or temporary manual override)</PROP>
+      <PROP ID="Options"></PROP>
       <PROP ID="Options">-MLT (Electrical and manual req'd to latch - tamperproof)</PROP>
     </OBJECT>
     <OBJECT>
@@ -783,6 +805,8 @@
       <PROP ID="Voltage">-240A (240VAC)</PROP>
       <PROP ID="Options"> (Auto Reset)</PROP>
       <PROP ID="Options">-M (Electrical to switch or temporary manual override)</PROP>
+      <PROP ID="Options"></PROP>
+      <PROP ID="Options"></PROP>
     </OBJECT>
     <OBJECT>
       <PROP ID="Power">-30 (3.0 Watts)</PROP>
@@ -822,6 +846,7 @@
       <PROP ID="Options"> (Auto Reset)</PROP>
       <PROP ID="Options">-M (Electrical to switch or temporary manual override)</PROP>
       <PROP ID="Options">-ML (Electrical and manual req'd to latch or temporary manual override)</PROP>
+      <PROP ID="Options"></PROP>
     </OBJECT>
     <OBJECT>
       <PROP ID="Power">-15 (1.5 Watts)</PROP>
@@ -858,7 +883,10 @@
       <PROP ID="Voltage">-220A (220VAC)</PROP>
       <PROP ID="Voltage">-230A (230VAC)</PROP>
       <PROP ID="Voltage">-240A (240VAC)</PROP>
+      <PROP ID="Options"></PROP>
+      <PROP ID="Options"></PROP>
       <PROP ID="Options">-ML (Electrical and manual req'd to latch or temporary manual override)</PROP>
+      <PROP ID="Options"></PROP>
     </OBJECT>
   </TABLE>
   <TABLE ID="FP06P_CableEntry">
@@ -1007,6 +1035,7 @@
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
+      <PROP ID="Connections"></PROP>
       <PROP ID="ValveConfiguration">-32 (3-way  2-position)</PROP>
       <PROP ID="ValveConfiguration">-22 (2-way  2-position)</PROP>
       <PROP ID="FlowConfiguration">-NU (Normally Universal)</PROP>

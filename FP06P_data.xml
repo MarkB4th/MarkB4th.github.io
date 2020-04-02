@@ -228,7 +228,6 @@
   <TABLE ID="FP06P_Voltage">
     <OBJECT>
       <PROP ID="Voltage">-12D (12VDC)</PROP>
-      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -294,7 +293,6 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Voltage">-50D (50VDC)</PROP>
-      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -316,7 +314,6 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Voltage">-110D (110VDC)</PROP>
-      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -338,7 +335,6 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Voltage">-120D (120VDC)</PROP>
-      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -360,7 +356,6 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Voltage">-125D (125VDC)</PROP>
-      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -382,7 +377,6 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Voltage">-220D (220VDC)</PROP>
-      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -404,7 +398,6 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Voltage">-24A (24VAC)</PROP>
-      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -426,7 +419,6 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Voltage">-110A (110VAC)</PROP>
-      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -448,7 +440,6 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Voltage">-120A (120VAC)</PROP>
-      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -470,7 +461,6 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Voltage">-220A (220VAC)</PROP>
-      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -492,7 +482,6 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Voltage">-230A (230VAC)</PROP>
-      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -514,7 +503,6 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Voltage">-240A (240VAC)</PROP>
-      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
@@ -646,7 +634,6 @@
     </OBJECT>
     <OBJECT>
       <PROP ID="Options">-MLT (Electrical and manual req'd to latch - tamperproof)</PROP>
-      <PROP ID="ModelCode">FP06P (Direct Acting Solenoid Valve)</PROP>
       <PROP ID="Operator">-S1 (Solenoid, 145 psi / 10 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Operator">-S2 (Solenoid, 232 psi / 16 bar Maximum Valve Pressure)</PROP>
       <PROP ID="Connections">-04 (1/4 Body Ported - Stainless Steel)</PROP>
